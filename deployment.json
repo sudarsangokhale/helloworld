@@ -1,5 +1,6 @@
 {
         "strategy": "hanaxs",
-	"host": "dshell.sapdevcenter.com:30015",
-	"root": "foo"
+	"host": "list50805835.blrl.sap.corp:30515",
+	"root": "sudarsan",
+	"pattern":"sudarsan.xsdev"
 }
